@@ -1,0 +1,6 @@
+artist_name,track_id,track_name,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,popularity
+Kendrick Lamar,6tS5PCRtE9NeD4bb6fPcmO,DNA.,0.0148,0.667,185547,0.628,0,1,0.0976,-6.924,1,0.31,139.994,4,0.434,71
+Billie Eilish,6IRdLKIyS4p7XNiP8r6rsx,Bury A Friend,0.328,0.905,193143,0.389,0.131,10,0.105,-14.505,0,0.379,120.006,4,0.562,91
+The Weeknd,7MXVkk9YMctZqd1Srtv4MB,Blinding Lights,0.00147,0.514,200040,0.73,0,1,0.0897,-5.934,1,0.0598,171.005,4,0.334,100
+BTS,1dAysMMcHW2FxykpAvcPdx,Dynamite,0.0112,0.746,199054,0.765,0,6,0.0936,-4.41,0,0.0993,114.998,4,0.737,96
+Taylor Swift,4l0Mvzj72xxOpRrp6h8nHi,Lover,0.654,0.617,221107,0.449,0.000147,1,0.119,-9.828,1,0.0313,68.502,4,0.319,76
